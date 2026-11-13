@@ -21,7 +21,9 @@ https://youtu.be/IYZNRxZfs-M
 ## 実行方法
 Windowsでプレイできます。
 
-＜後で追加＞
+1. [Releases](../../releases/latest)からZIPファイルをダウンロード
+2. ZIPファイルを展開
+3. フォルダ内の実行ファイル（.exe）を起動
 
 ## 使用技術
 - Unity 6
