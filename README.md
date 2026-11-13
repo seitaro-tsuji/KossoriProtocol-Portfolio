@@ -7,7 +7,16 @@
 https://youtu.be/IYZNRxZfs-M
 
 ## スクリーンショット
-＜後で追加＞
+### タイトル画面
+![タイトル画面](Screenshots/タイトル画面.png)
+
+### インゲーム・アイテム取得
+![アイテム取得1](Screenshots/インゲームアイテム取得1.png)
+![アイテム取得2](Screenshots/インゲームアイテム取得2.png)
+
+### リザルト画面
+![リザルト画面1](Screenshots/リザルト画面1.png)
+![リザルト画面2](Screenshots/リザルト画面2.png)
 
 ## 実行方法
 Windowsでプレイできます。
