@@ -98,6 +98,6 @@ Windowsでプレイできます。
 
 主なスクリプトは以下の3つです。
 
-- [`IngameManager`]()：ゲーム進行管理と各機能の統合
-- [`EnemyManager`]()：敵のランダム生成とスタン処理
-- [`ItemGenerator`]()：アイテムのランダム生成
+- [`IngameManager`](Scripts/IngameManager.cs)：ゲーム進行管理と各機能の統合
+- [`EnemyManager`](Scripts/EnemyManager.cs)：敵のランダム生成とスタン処理
+- [`ItemGenerator`](Scripts/EnemyManager.cs)：アイテムのランダム生成
